@@ -14,7 +14,7 @@
 
 ### Glad to see you here! 🤩 
 
-I'm a final student pursuing Bachelors's in Computer Science 🎓 from Universidad Tecnólogica de La Habana 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a Computer Engineer 🎓 graduated from Universidad Tecnólogica de La Habana 🏛 in Cuba, currently living in Santiago de Chile. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 ### More about me...
 
