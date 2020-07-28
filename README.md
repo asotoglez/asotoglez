@@ -25,6 +25,6 @@ I'm a Computer Engineer 🎓 graduated from Universidad Tecnólogica de La Haban
 - 🌱 I’m currently learning Full Stack Development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
 - 📫 How to reach me: alesoto9113@gmail.com
-- 💻 I have worked on React, Nodejs, Expressjs, MongoDB, .NET, MSSQL, Flutter, Git, Docker and more.
+- 💻 I have worked on React, Nodejs, Expressjs, MongoDB, .NET, MSSQL, Flutter, Git, Docker, AWS, and more.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. 
