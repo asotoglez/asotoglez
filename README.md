@@ -17,7 +17,7 @@
 
 ### About me...
 
-- 🔭 I'm currently working at [Mediastream](https://www.mediastre.am/) company💻.  
+- 🔭 I'm currently working at [Xepelin](https://www.xepelin.com/) company💻.  
 - 🌱 Full Stack Development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
 - 📫 How to reach me: alesoto9113@gmail.com
